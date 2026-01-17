@@ -30,7 +30,9 @@ This project is a gameplay-focused prototype created to
 understand endless runner mechanics. UI, audio, and visual
 polish were not the primary focus.
 
----
+🎥 Gameplay Demo:
+https://youtu.be/c8Tk4Azo3qM
+
 
 ## 🎥 Gameplay Demo
 Gameplay video will be added here.
